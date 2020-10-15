@@ -1,1 +1,2 @@
-Welcome to the new file GIT Demo...
+Welcome to GIT Demo :  done by team mate on master for WI5
+check rebase testing
