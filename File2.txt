@@ -1,3 +1,6 @@
 Welcome to GIT Demo :  
 change 1 : done by team mate on master for WI5 to check rebase testing
 change 2 :  for feature payment to test rebase testing
+
+
+change 3 : test stash for partial or half done.
