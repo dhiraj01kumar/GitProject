@@ -1,4 +1,3 @@
-.
 Hello World... hello again
 
 
@@ -10,3 +9,5 @@ fixing BUG : change4 - something changed
 change 5 : for push purposes
 
 change 6 : by teammate change for CR1 on remote master to test rebase
+
+change 7 : teammate change for CR2 on remote master
