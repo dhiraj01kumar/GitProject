@@ -1,2 +1,3 @@
-Welcome to GIT Demo :  done by team mate on master for WI5
-check rebase testing
+Welcome to GIT Demo :  
+change 1 : done by team mate on master for WI5 to check rebase testing
+change 2 :  for feature payment to test rebase testing
