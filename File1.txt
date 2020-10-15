@@ -1,1 +1,4 @@
 Hello World!!! hello again
+
+fixing BUG : change1 - for login feature
+fixing BUG : change2 - for checkout feature.
